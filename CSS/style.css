@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Athiti|Nunito&display=swap');
+
+body {
+  background-color: #80E9FF;
+  background-image: url("/images/Landscape.jpg");
+  font-family: 'Athiti', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #394580;
+  font-size: 22pt;
+  font-family: 'Nunito', sans-serif;
+}
+
+h3 {
+  color: black;
+  font-size: 18pt;
+}
+
+p {
+  color: #132580;
+  font-size: 14pt;
+}
+
+a {
+  color: White;
+  text-decoration: none;
+}
+
+a:hover {
+  color:gray;
+}
+
+a visited {
+  color:gray;
+}
+
+a active {
+  color: gray;
+}
